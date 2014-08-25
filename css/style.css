@@ -1,0 +1,15 @@
+#people{
+    background-color:lightcyan;
+    text-align:center;
+}
+
+#battle{
+    background-color:lightcoral;
+    text-align:center;
+}
+
+#winner{
+    background-color:lightgreen;
+    text-align:center;
+    font-size:2em;
+}
